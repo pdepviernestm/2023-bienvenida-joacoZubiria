@@ -11,7 +11,8 @@ En realidad mi nombre es más largo: Joaquin Tomas Zubiria Mansilla, pero ademá
 </div>
 <i>Lollapalooza 2023, en la pantalla del escenario.</i>
 <br>
-####Estudios
+
+#### Estudios
 - Egresado del Colegio FASTA Catherina
 - Cursando 2do año de ING. en Sistemas
 - Cursando Certified Tech Developer, una carrera digital hecha por Digital House en colaboración con Globant y Mercado Libre.
